@@ -1,0 +1,4 @@
+2018-06-04T09:12:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-06-04T13:02:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 48 bytes)
+
